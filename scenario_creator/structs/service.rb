@@ -1,0 +1,1 @@
+Service = Struct.new()
